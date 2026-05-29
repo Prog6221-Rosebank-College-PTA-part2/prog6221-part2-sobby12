@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mok0Te3ZkYk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\WpfApp3\\WpfApp3\\WpfApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\system.speech\\10.0.8\\system.speech.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
